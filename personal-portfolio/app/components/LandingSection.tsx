@@ -28,7 +28,7 @@ const LandingSection = () => {
                         />
                     </h1>
                     
-                    <p className="text-white text-lg lg:text-xl mb-6 text-base">
+                    <p className="text-white text-lg lg:text-xl mb-6">
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque adipisci animi eos, consequuntur quo reprehenderit qui architecto autem facilis explicabo maiores quia corrupti iusto quaerat ab velit praesentium. Alias, error.
                     </p>
                     <div>
